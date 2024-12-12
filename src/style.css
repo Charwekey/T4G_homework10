@@ -1,0 +1,43 @@
+p{
+    background-color: rgb(235, 122, 122);
+    color: white;
+    border-radius: 10px;
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    margin: 10px auto;
+}
+.image{
+    display: none;
+    width: 400px;
+    height: 400px;
+}
+ 
+.open{
+    border: 2px solid darkcyan;
+    padding: 6px;
+    border-radius: 8px;
+    background-color: darkcyan;
+    color: black;
+    margin: 10px;
+}
+
+.close{
+    display: none;
+    border: 2px solid rgb(236, 70, 9);
+    padding: 6px;
+    border-radius: 8px;
+    background-color: rgb(241, 70, 32);
+    color: black;
+    margin: 10px;
+}
